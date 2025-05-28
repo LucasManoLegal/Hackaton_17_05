@@ -80,3 +80,5 @@ df_vendas = pd.DataFrame(vendas)
 df_vendas.to_excel("C:/Users/49439967870/Desktop/Ciência_de_dados/Hackaton_17_05/raspagem/tabelas/vendas.xlsx", index=False)
 
 print(f"Arquivo 'vendas.xlsx' salvo com sucesso! {len(df_vendas)} linhas coletadas!")
+
+
